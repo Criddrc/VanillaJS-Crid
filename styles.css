@@ -69,3 +69,21 @@ body {
 .card li {
   margin-bottom: 8px;
 }
+
+
+.proyectos {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.proyectos a {
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.proyectos a:hover {
+  color: #ed6dc9ee;
+}
